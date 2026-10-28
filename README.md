@@ -1,1 +1,1 @@
-This is an about me page, it has some fun fact about me, along with some projects.
+This is an about me page, it has some fun facts about me, my interests, and my other projects.
